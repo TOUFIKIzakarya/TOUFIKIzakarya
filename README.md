@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm TOUFIKI Zakarya</h1>
 <h3 align="center">A backend engineer with python</h3>
 
-- 🔭 I’m currently working on **Atos**
-
 - 🌱 I’m currently learning **Vuejs**
 
 - 👯 I’m looking to collaborate on **python projects**
